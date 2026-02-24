@@ -4,7 +4,7 @@
 
 **_Décrire le sujet_**
 
-Pour ce cours, j’ai choisi de mettre en pratique l’auto-formation sur le thème de UX Research & Testing utilisateur. Un sujet technique directement en lien avec mon Travail de Bachelor 
+Pour ce cours, j’ai choisi de mettre en pratique l’auto-formation sur le thème de UX Research & Testing utilisateur. Un sujet technique directement en lien avec mon Travail de Bachelor.
 
 ### Contexte
 
@@ -37,7 +37,7 @@ Mon niveau actuel de connaissances et de pratique en compréhension utilisateur 
 
 ## Expérimentation
 
-Pour valider mes compétences en UX Research et testing utilisateur, je réaliserai un Proof of Concept sous forme de rapport appliqué au futur site web des Musées de Pully. Il inclura des hypothèses, un guide d’entretien structuré, au moins trois entretiens utilisateurs et un test utilisateur sur un site existant. Le rapport démontrera ma capacité à mener une recherche rigoureuse et à produire des résultats exploitables.
+Pour valider mes compétences en UX Research et testing utilisateur, je réaliserai un Proof of Concept sous forme de rapport. Il inclura des hypothèses, un guide d’entretien structuré, au moins trois entretiens utilisateurs et un test utilisateur sur le site existant. Le rapport démontrera ma capacité à mener une recherche rigoureuse et à produire des résultats exploitables.
 
 ---
 
