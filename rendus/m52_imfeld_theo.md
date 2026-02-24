@@ -37,9 +37,8 @@ Mon niveau actuel de connaissances et de pratique en compréhension utilisateur 
 
 ## Expérimentation
 
-Pour valider mes compétences en UX Research et testing utilisateur, je réaliserai un Proof of Concept sous forme de rapport appliqué au futur site web des Musées de Pully.
-Il inclura des hypothèses, un guide d’entretien structuré, au moins trois entretiens utilisateurs et un test utilisateur sur un site existant.
-Le rapport démontrera ma capacité à mener une recherche rigoureuse et à produire des résultats exploitables.
+Pour valider mes compétences en UX Research et testing utilisateur, je réaliserai un Proof of Concept sous forme de rapport appliqué au futur site web des Musées de Pully. Il inclura des hypothèses, un guide d’entretien structuré, au moins trois entretiens utilisateurs et un test utilisateur sur un site existant. Le rapport démontrera ma capacité à mener une recherche rigoureuse et à produire des résultats exploitables.
+
 ---
 
 # RAPPORT FINAL À RENDRE POUR LE 6 MARS 23h59
